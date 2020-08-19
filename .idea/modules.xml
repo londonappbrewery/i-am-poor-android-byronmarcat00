@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/I-Am-Poor-Android.iml" filepath="$PROJECT_DIR$/I-Am-Poor-Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="i-am-poor-android-byronmarcat00/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/i-am-poor-android-byronmarcat00.iml" filepath="$PROJECT_DIR$/.idea/modules/i-am-poor-android-byronmarcat00.iml" group="i-am-poor-android-byronmarcat00" />
     </modules>
   </component>
 </project>
